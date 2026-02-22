@@ -1,1 +1,1 @@
-This is the first commit of this test repo.
+I have erased the previous message and created a new message here in this README.md file.
